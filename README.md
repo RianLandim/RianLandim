@@ -1,4 +1,7 @@
-## Olá, eu sou Rian Landim!!!
+## Sobre mim
+
+Oi meu nome é Rian Landim, sempre fui um amante de tecnologia e quanto mais me aprofundava mais me apaixonava pela ideia de desenvolver tecnologias, foi então que vi a programação e me apaixonei por aquelas varias linhas e que no final compilavam em um programa que solucionava algum problema, desde então venho estudado sobre as varias linguagens e tecnologias de desenvolvimento de aplicações!
+
  <div>
   <a href="https://github.com/RianLandim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RianLandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
