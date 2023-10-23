@@ -2,10 +2,6 @@
 
 Oi meu nome é Rian Landim, sempre fui um amante de tecnologia e quanto mais me aprofundava mais me apaixonava pela ideia de desenvolver tecnologias, foi então que vi a programação e me apaixonei por aquelas varias linhas e que no final compilavam em um programa que solucionava algum problema, desde então venho estudado sobre as varias linguagens e tecnologias de desenvolvimento de aplicações!
 
- <div>
-  <a href="https://github.com/RianLandim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianLandim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block width: 100%"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
