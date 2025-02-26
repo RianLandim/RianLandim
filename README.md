@@ -4,7 +4,6 @@
 
 ###
 
-[![Instagram Badge](https://img.shields.io/badge/-@rianlandim-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/rianlandim/)](https://www.instagram.com/rianlandim/)
 [![Linkedin Badge](https://img.shields.io/badge/-Rian%20Landim-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-landim/)](https://www.linkedin.com/in/rian-landim/)
 [![Gmail Badge](https://img.shields.io/badge/-rianlandim.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianlandim.dev@gmail.com)](mailto:rianlandim.dev@gmail.com)
 
