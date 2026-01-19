@@ -7,9 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rian%20Landim-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-landim/)](https://www.linkedin.com/in/rian-landim/)
 [![Gmail Badge](https://img.shields.io/badge/-rianlandim.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianlandim.dev@gmail.com)](mailto:rianlandim.dev@gmail.com)
 
-Enthusiast of Web,mobile and backend development technologies
-
-Passionate about learning new technologies and help other developing systems that will improve the daily life of everyone
+Fullstack Developer with 4+ years of experience building scalable, high-availability systems for Healthcare and Fintech sectors. Demonstrated expertise in architectural decision-making, consistently choosing optimal stacks (NestJS, AWS Serverless) to solve complex business problems. Proven track record of migrating legacy systems and reducing infrastructure costs by 35% through proactive technical improvements. Committed to delivering clean, testable code and robust documentation.
 
 ###
 
