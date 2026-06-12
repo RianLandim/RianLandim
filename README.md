@@ -1,52 +1,207 @@
-###
+# <div align="center">
 
-# Rian Landim
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Rian%20Landim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Fullstack+Developer;Building+Scalable+Systems"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rian%20Landim-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-landim/)](https://www.linkedin.com/in/rian-landim/)
-[![Gmail Badge](https://img.shields.io/badge/-rianlandim.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianlandim.dev@gmail.com)](mailto:rianlandim.dev@gmail.com)
+<br/>
 
-Fullstack Developer with 4+ years of experience building scalable, high-availability systems for Healthcare and Fintech sectors. Demonstrated expertise in architectural decision-making, consistently choosing optimal stacks (NestJS, AWS Serverless) to solve complex business problems. Proven track record of migrating legacy systems and reducing infrastructure costs by 35% through proactive technical improvements. Committed to delivering clean, testable code and robust documentation.
+![Bachelor](https://img.shields.io/badge/Bachelor-Information%20Systems-7C3AED?style=for-the-badge)
+![AI Research](https://img.shields.io/badge/Research-Artificial%20Intelligence-A855F7?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C1%20Advanced-4F46E5?style=for-the-badge)
 
-###
+<a href="https://linkedin.com/in/rianlandim">
+<img src="https://img.shields.io/badge/LinkedIn-Rian%20Landim-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# Languages
+<a href="mailto:rianlandim.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div style="display: flex; flex-direction: row;align-items: center; justify-content: space-evenly">
+<a href="https://github.com/RianLandim">
+<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![GO](https://img.shields.io/badge/GO-0175C2?style=for-the-badge&logo=go&logoColor=white)
+<br/>
+</div>
+
+---
+
+# About
+
+Software Engineer focused on building scalable products, distributed systems, cloud-native applications, and AI-assisted development workflows.
+
+Over the last 4+ years, I have worked across Healthcare, Telemedicine, Fintech, SaaS Platforms, Event Management Systems, and Enterprise Solutions, designing architectures that serve thousands of users while maintaining reliability, performance, and maintainability.
+
+My engineering philosophy combines:
+
+* Clean Architecture
+* Domain-Driven Design
+* Cloud-Native Systems
+* AI-Augmented Engineering
+* Product-Oriented Development
+* Continuous Delivery
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,postgres,mysql,redis"/>
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain                        | Proficiency  | Details                                |
+| ----------------------------- | ------------ | -------------------------------------- |
+| AI Assisted Development       | Advanced     | Copilot, GPT, Claude, Cursor, Windsurf |
+| LLM Integration               | Advanced     | API Integration, RAG, Tool Calling     |
+| Software Engineering Research | Advanced     | AI Pair Programming Research           |
+| Data Engineering              | Intermediate | ETL Pipelines and Data Processing      |
+| MLOps Concepts                | Intermediate | Deployment and Monitoring Strategies   |
+| Prompt Engineering            | Advanced     | Enterprise-grade Prompt Design         |
+| Agent Systems                 | Intermediate | Multi-Agent Architectures              |
+| Applied AI Products           | Advanced     | SaaS and Productivity Solutions        |
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition                 | Details                                       |
+| --------------------------- | --------------------------------------------- |
+| Infrastructure Optimization | Reduced cloud costs by 35%                    |
+| System Modernization        | Migrated monoliths to serverless architecture |
+| Performance Engineering     | Reduced latency by 60%                        |
+| Mobile Engineering          | Increased engagement by 45%                   |
+| Reliability Engineering     | Delivered 99.9% uptime systems                |
+| Telemedicine Innovation     | Supported 5,000+ remote consultations         |
 
 </div>
 
-###
+---
 
-###
+# GitHub Analytics
 
-# Frameworks | Libs | Databases
+<div align="center">
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-evenly">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianLandim&show_icons=true&theme=tokyonight"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RianLandim&theme=tokyonight"/>
 
-</div>
-
-<div style="display: flex; flex-direction: row;align-items: center; justify-content: space-evenly">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianLandim&layout=compact&theme=tokyonight"/>
 
 </div>
 
-###
+---
 
-###
+# GitHub Trophies
 
-# Cloud Computing Services
+<div align="center">
 
-<div style="display: flex; flex-direction: row;align-items: center; justify-content: space-evenly">
-
-![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=RianLandim&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
-###
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RianLandim&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RianLandim/RianLandim/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - AI Engineering
+  - Agentic Systems
+  - Distributed Architectures
+  - Advanced AWS Services
+
+building:
+  - SaaS Platforms
+  - AI Developer Tools
+  - Enterprise Applications
+
+exploring:
+  - Multi-Agent Systems
+  - LLM Orchestration
+  - Cloud Native AI
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:rianlandim.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rianlandim">
+<img src="https://img.shields.io/badge/LinkedIn-Rian%20Landim-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RianLandim">
+<img src="https://img.shields.io/badge/GitHub-RianLandim-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering scalable systems is not about writing more code — it's about creating leverage."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
